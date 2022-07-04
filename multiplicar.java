@@ -14,9 +14,4 @@ public class multiplicar {
         System.out.println();
         System.out.println();
     }
-
-
-
-
-
 }
