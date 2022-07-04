@@ -10,8 +10,7 @@ public class multiplicar {
         return a * b * c;
     }
     public static void main(String[] args) {
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        System.out.println("Mult: " + multiplicar.mult(5, 3));
+       
     }
 }
